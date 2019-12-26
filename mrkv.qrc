@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mrkv_small.png</file>
+        <file>pixil-frame-1.png</file>
+        <file>load.ico</file>
+        <file>process.ico</file>
+        <file>save.ico</file>
+        <file>imageres_81.ico</file>
+        <file>imageres_99.ico</file>
+    </qresource>
+</RCC>
